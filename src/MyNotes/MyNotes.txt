@@ -1,0 +1,21 @@
+Auto rename tag
+
+userInterface
+only Home Login SignUp SearchBtn
+After Authentication Shows Cart MyOrder
+
+//MongoDB-downloads
+MongoDB community Server ...//environment Setup
+MongoDB Database Tools ...//extract this 'windows c'
+MongoDB Atlas ...//direct through web Server --sigup
+Mongo description download from 'mern4' 
+windows c / create --> Data/db folder
+
+//Express-downloads
+create backend --> cd backend --> npm init --> 
+npm install express nodemon mongoose
+gitignore dependecies 'node_modules' for pushing github
+
+//thunder client extension -- download
+
+//mongoosejs.com
